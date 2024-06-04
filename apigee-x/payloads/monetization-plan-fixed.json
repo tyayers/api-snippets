@@ -1,0 +1,34 @@
+{
+  "apiproduct": "bike_data_v3_5ie5",
+  "displayName": "Bike Data v3 plan",
+  "description": "",
+  "billingPeriod": "MONTHLY",
+  "paymentFundingModel": "POSTPAID",
+  "currencyCode": "USD",
+  "setupFee": {
+    "currencyCode": "USD",
+    "units": "0",
+    "nanos": "0"
+  },
+  "fixedRecurringFee": {
+    "currencyCode": "USD",
+    "units": "0",
+    "nanos": "0"
+  },
+  "fixedFeeFrequency": 0,
+  "consumptionPricingType": "FIXED_PER_UNIT",
+  "consumptionPricingRates": [
+    {
+      "start": "0",
+      "end": "0",
+      "fee": {
+        "currencyCode": "USD",
+        "units": "1",
+        "nanos": "0"
+      }
+    }
+  ],
+  "state": "PUBLISHED",
+  "startTime": 1717473130737,
+  "endTime": 0
+}
